@@ -1,0 +1,1078 @@
+Removed Parameter Allied_Number:70389689 from Part U?
+Removed Parameter Allied_Number:70390923 from Part IC?
+Removed Parameter Allied_Number:71469754 from Part J?
+Removed Parameter Allied_Number:R1076681 from Part IC?
+Removed Parameter Allied Price/Stock:http://www.alliedelec.com/allegro-microsystems-acs712elctr-05b-t/R1076681/ from Part IC?
+Removed Parameter Allied Price/Stock:http://www.alliedelec.com/stmicroelectronics-stm32f030f4p6/70390923/ from Part IC?
+Removed Parameter Allied Price/Stock:http://www.alliedelec.com/stmicroelectronics-usblc6-2sc6/70389689/ from Part U?
+Removed Parameter Allied Price/Stock:https://www.alliedelec.com/molexincorporated-52745-0497/71469754/ from Part J?
+Removed Parameter Area Factor: from Implementation SIM DIODE
+Removed Parameter Arrow Part Number:3362P-1-102LF from Part VR?
+Removed Parameter Arrow Part Number:79527141 from Part BT?
+Removed Parameter Arrow Part Number:0786463001 from Part J?
+Removed Parameter Arrow Part Number:-SIM800C from Part U?
+Removed Parameter Arrow Part Number:AD724 from Part IC?
+Removed Parameter Arrow Part Number:ADV7533BCBZ-RL from Part IC?
+Removed Parameter Arrow Part Number:BAT-HLD-001-TR from Part U?
+Removed Parameter Arrow Part Number:ESDA6V1-5SC6 from Part U?
+Removed Parameter Arrow Part Number:FC1602N01-FHYYBW-51LE from Part DS?
+Removed Parameter Arrow Part Number: from Part U?
+Removed Parameter Arrow Part Number:PJ-320D from Part J?
+Removed Parameter Arrow Part Number:Si8621BB-B-IS from Part U?
+Removed Parameter Arrow Part Number:SN74LVC245ARGYR from Part IC?
+Removed Parameter Arrow Part Number:STPM32TR from Part U?
+Removed Parameter Arrow Part Number:TPD4E1B06DCKR from Part U?
+Removed Parameter Arrow Part Number:TPD12S521DBTR from Part U?
+Removed Parameter Arrow Part Number:TPS54202DDCT from Part IC?
+Removed Parameter Arrow Price/Stock: from Part U?
+Removed Parameter Arrow Price/Stock: from Part IC?
+Removed Parameter Arrow Price/Stock: from Part U?
+Removed Parameter Arrow Price/Stock: from Part BT?
+Removed Parameter Arrow Price/Stock: from Part DS?
+Removed Parameter Arrow Price/Stock: from Part U?
+Removed Parameter Arrow Price/Stock: from Part J?
+Removed Parameter Arrow Price/Stock:https://www.arrow.com/en/products/3362p-1-102lf/bourns from Part VR?
+Removed Parameter Arrow Price/Stock:https://www.arrow.com/en/products/0786463001/molex from Part J?
+Removed Parameter Arrow Price/Stock:https://www.arrow.com/en/products/adv7533bcbz-rl/analog-devices from Part IC?
+Removed Parameter Arrow Price/Stock:https://www.arrow.com/en/products/esda6v1-5sc6/stmicroelectronics from Part U?
+Removed Parameter Arrow Price/Stock:https://www.arrow.com/en/products/si8621bb-b-is/silicon-labs from Part U?
+Removed Parameter Arrow Price/Stock:https://www.arrow.com/en/products/sn74lvc245argyr/texas-instruments from Part IC?
+Removed Parameter Arrow Price/Stock:https://www.arrow.com/en/products/stpm32tr/stmicroelectronics from Part U?
+Removed Parameter Arrow Price/Stock:https://www.arrow.com/en/products/tpd4e1b06dckr/texas-instruments from Part U?
+Removed Parameter Arrow Price/Stock:https://www.arrow.com/en/products/tpd12s521dbtr/texas-instruments from Part U?
+Removed Parameter Arrow Price/Stock:https://www.arrow.com/en/products/tps54202ddct/texas-instruments from Part IC?
+Removed Parameter Availability:Unavailable from Part P?
+Removed Parameter Case/Package:0201 from Part *
+Removed Parameter Case Code (Imperial):0201 from Part *
+Removed Parameter Case Code (Metric):0603 from Part *
+Removed Parameter Code - JEDEC:* from Part D?
+Removed Parameter ComponentLink1Description:http://www.farnell.com/datasheets/1501083.pdf?src-supplier=Element14 from Part *
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U?
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U?
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U?
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U?
+Removed Parameter ComponentLink1URL:http://www.farnell.com/datasheets/1501083.pdf?src-supplier=Element14 from Part *
+Removed Parameter ComponentLink1URL:http://www.st.com/web/en/home.html from Part U?
+Removed Parameter ComponentLink1URL:http://www.st.com/web/en/home.html from Part U?
+Removed Parameter ComponentLink1URL:http://www.st.com/web/en/home.html from Part U?
+Removed Parameter ComponentLink1URL:http://www.st.com/web/en/home.html from Part U?
+Removed Parameter ComponentLink2Description:Datasheet from Part U?
+Removed Parameter ComponentLink2Description:Datasheet from Part U?
+Removed Parameter ComponentLink2Description:Datasheet from Part U?
+Removed Parameter ComponentLink2Description:Datasheet from Part U?
+Removed Parameter ComponentLink2URL:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00053488.pdf from Part U?
+Removed Parameter ComponentLink2URL:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00053488.pdf from Part U?
+Removed Parameter ComponentLink2URL:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00053488.pdf from Part U?
+Removed Parameter ComponentLink2URL:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00053488.pdf from Part U?
+Removed Parameter ComponentLink3Description:Package Specification from Part U?
+Removed Parameter ComponentLink3Description:Package Specification from Part U?
+Removed Parameter ComponentLink3Description:Package Specification from Part U?
+Removed Parameter ComponentLink3Description:Package Specification from Part U?
+Removed Parameter ComponentLink3URL:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00053488.pdf from Part U?
+Removed Parameter ComponentLink3URL:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00071938.pdf from Part U?
+Removed Parameter ComponentLink3URL:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00035129.pdf from Part U?
+Removed Parameter ComponentLink3URL:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00035129.pdf from Part U?
+Removed Parameter Core:ARM Cortex-M4 from Part U?
+Removed Parameter Core:ARM Cortex-M4 from Part U?
+Removed Parameter Core:ARM Cortex-M4 from Part U?
+Removed Parameter Core:ARM Cortex-M4 from Part U?
+Removed Parameter D/A Converter:2x12-bit from Part U?
+Removed Parameter D/A Converter:2x12-bit from Part U?
+Removed Parameter D/A Converter:2x12-bit from Part U?
+Removed Parameter D/A Converter:2x12-bit from Part U?
+Removed Parameter Datasheet Link:http://docs-emea.rs-online.com/webdocs/0d88/0900766b80d885f5.pdf from Part IC?
+Removed Parameter Datasheet Link:http://docs-emea.rs-online.com/webdocs/140d/0900766b8140da90.pdf from Part U?
+Removed Parameter Datasheet Link:http://docs-emea.rs-online.com/webdocs/1327/0900766b81327ad8.pdf from Part IC?
+Removed Parameter Datasheet Link:http://uk.rs-online.com/web/p/products/1711663 from Part DS?
+Removed Parameter Datasheet Link:http://uk.rs-online.com/web/p/products/1762593 from Part J?
+Removed Parameter Datasheet Link:http://www.analog.com/media/en/technical-documentation/data-sheets/ADV7533.pdf from Part IC?
+Removed Parameter Datasheet Link:http://www.mouser.com/datasheet/2/445/79527141-1380512.pdf from Part BT?
+Removed Parameter Datasheet Link:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00005102.pdf from Part U?
+Removed Parameter Datasheet Link:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00050750.pdf from Part U?
+Removed Parameter Datasheet Link:http://www.st.com/web/en/resource/technical/document/datasheet/DM00088500.pdf from Part IC?
+Removed Parameter Datasheet Link:http://www.ti.com/jp/lit/gpn/tpd4e1b06 from Part U?
+Removed Parameter Datasheet Link:http://www.ti.com/lit/ds/symlink/tpd12s521.pdf from Part U?
+Removed Parameter Datasheet Link:http://www.ti.com/lit/gpn/sn74lvc245a from Part IC?
+Removed Parameter Datasheet Link:https://componentsearchengine.com/Datasheets/2/TPS54202DDCT.pdf from Part IC?
+Removed Parameter Datasheet Link:https://datasheet.lcsc.com/szlcsc/Ningbo-Keke-New-Era-Appliance-HK19F-DC5V-SHG-Y_C54512.pdf from Part K?
+Removed Parameter Datasheet Link:https://datasheet.lcsc.com/szlcsc/SIMCom-Wireless-Solutions-SIM800C-24Mbit_C69119.pdf from Part U?
+Removed Parameter Datasheet Link:https://datasheet.lcsc.com/szlcsc/Zhongshan-HanRun-Elec-HR911105A_C12074.pdf from Part J?
+Removed Parameter Datasheet Link:https://eu.mouser.com/datasheet/2/306/BME280-1620794.pdf from Part U?
+Removed Parameter Datasheet Link:https://p.globalsources.com/IMAGES/PDT/SPEC/432/K1007154432.pdf from Part J?
+Removed Parameter Datasheet Link:https://products.sumida.com/products/pdf/CD43T125.pdf from Part L?
+Removed Parameter Datasheet Link:https://www.arrow.com/en/products/cd75np-100kc/sumida from Part L?
+Removed Parameter Datasheet Link:https://www.bourns.com/docs/Product-Datasheets/3362.pdf from Part VR?
+Removed Parameter Datasheet Link:https://www.molex.com/pdm_docs/sd/527450497_sd.pdf from Part J?
+Removed Parameter Datasheet Link:https://www.molex.com/webdocs/datasheets/pdf/en-us/0786463001_MEMORY_CARD_SOCKET.pdf from Part J?
+Removed Parameter Datasheet Link:https://www.mouser.com/datasheet/2/238/bat-hld-001-1659379.pdf from Part U?
+Removed Parameter Datasheet Link:https://www.mouser.com/datasheet/2/609/AD724-1501848.pdf from Part IC?
+Removed Parameter Datasheet Link:https://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf from Part U?
+Removed Parameter Datasheet Link:https://www.st.com/resource/en/datasheet/stpm32.pdf from Part U?
+Removed Parameter DatasheetVersion:Rev. 2 from Part U?
+Removed Parameter DatasheetVersion:Rev. 2 from Part U?
+Removed Parameter DatasheetVersion:Rev. 2 from Part U?
+Removed Parameter DatasheetVersion:Rev. 2 from Part U?
+Removed Parameter Description_2:Bead,30R,5A,0603,MPZ1608S300A,TDK from Part L?
+Removed Parameter Description_2:Bead,30R,5A,0603,MPZ1608S300A,TDK from Part L?
+Removed Parameter Description_3:Bead,120R,2A,0603,BLM18PG121SN1D,MURATA from Part L?
+Removed Parameter Description_3:Bead,600R,350mA,0603,FCM1608KF-601T03,Tai-tech from Part L?
+Removed Parameter Distrib:Cirrus Logic from Part U?
+Removed Parameter Distrib:DIGIKEY from Part C?
+Removed Parameter Distrib:DIGIKEY from Part L?
+Removed Parameter Distrib:DIGIKEY from Part R?
+Removed Parameter Distrib:DIGIKEY from Part R?
+Removed Parameter Distrib:DIGIKEY from Part R?
+Removed Parameter Distrib:DIGIKEY from Part R?
+Removed Parameter Distrib:FARNELL from Part U?
+Removed Parameter Distrib:FARNELL from Part C?
+Removed Parameter Distrib:FARNELL from Part C?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:FARNELL from Part R?
+Removed Parameter Distrib:* from Part C?
+Removed Parameter Distrib: from Part CN?
+Removed Parameter Distrib:* from Part CN?
+Removed Parameter Distrib:* from Part X?
+Removed Parameter Distrib:JFVNY from Part B?
+Removed Parameter Distrib:JFVNY from Part B?
+Removed Parameter Distrib:MICROCHIP from Part U?
+Removed Parameter Distrib:MICROCHIP from Part U?
+Removed Parameter Distrib:RADIOSPARES from Part LD?
+Removed Parameter Distrib:ST from Part D?
+Removed Parameter Distrib:ST from Part U?
+Removed Parameter Distrib:ST from Part D?
+Removed Parameter Distrib:ST from Part U?
+Removed Parameter Distrib:ST from Part U?
+Removed Parameter Distrib:ST from Part U?
+Removed Parameter Distrib:ST from Part U?
+Removed Parameter Distrib:ST from Part U?
+Removed Parameter Distrib:ST from Part U?
+Removed Parameter Distrib:ST from Part U?
+Removed Parameter Distrib:ST from Part U?
+Removed Parameter Distrib:ST from Part U?
+Removed Parameter Distrib:ST from Part U?
+Removed Parameter Distrib:ST from Part D?
+Removed Parameter Distrib:Sub Co from Part CN?
+Removed Parameter Distrib:Sub Co from Part CN?
+Removed Parameter Distrib:Sub Co from Part CN?
+Removed Parameter Distrib:Sub Co from Part P?
+Removed Parameter Distrib:Sub Co from Part CN?
+Removed Parameter Distrib:Sub Co from Part U?
+Removed Parameter ECCN_US/EU:3A991/NEC from Part U?
+Removed Parameter ECCN_US/EU:3A991A2/NEC from Part U?
+Removed Parameter ECCN_US/EU:3A991A2/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part D?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part D?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part JP?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part LD?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part LD?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part LD?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part X?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part X?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part D?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part U?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part X?
+Removed Parameter ECCN_US/EU:EAR99/NEC from Part X?
+Removed Parameter ECCN_US/EU:* from Part U?
+Removed Parameter ECCN_US/EU:n/a from Part L?
+Removed Parameter ECCN_US/EU:n/a from Part L?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part C?
+Removed Parameter ECCN_US/EU:n/a from Part CN?
+Removed Parameter ECCN_US/EU:n/a from Part CN?
+Removed Parameter ECCN_US/EU:n/a from Part CN?
+Removed Parameter ECCN_US/EU:n/a from Part CN?
+Removed Parameter ECCN_US/EU:n/a from Part P?
+Removed Parameter ECCN_US/EU:n/a from Part CN?
+Removed Parameter ECCN_US/EU:n/a from Part JP?
+Removed Parameter ECCN_US/EU:n/a from Part L?
+Removed Parameter ECCN_US/EU:n/a from Part JP?
+Removed Parameter ECCN_US/EU:N/A from Part CN?
+Removed Parameter ECCN_US/EU:n/a from Part CN?
+Removed Parameter ECCN_US/EU:n/a from Part CN?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part R?
+Removed Parameter ECCN_US/EU:n/a from Part SB?
+Removed Parameter ECCN_US/EU:n/a from Part SB?
+Removed Parameter ECCN_US/EU:n/a from Part B?
+Removed Parameter ECCN_US/EU:n/a from Part B?
+Removed Parameter ECCN_US/EU:n/a from Part TP?
+Removed Parameter ECCN_US/EU:n/a from Part TP?
+Removed Parameter ECCN_US/EU:n/a from Part CN?
+Removed Parameter ECCN_US/EU:n/a from Part CN?
+Removed Parameter Fitted:NO from Part C?
+Removed Parameter Fitted:NO from Part CN?
+Removed Parameter Fitted:NO from Part JP?
+Removed Parameter Fitted:NO from Part R?
+Removed Parameter Fitted:NO from Part TP?
+Removed Parameter FLASH Size (Prog) (kB):1024 from Part U?
+Removed Parameter FLASH Size (Prog) (kB):2048 from Part U?
+Removed Parameter FLASH Size (Prog) (kB):2048 from Part U?
+Removed Parameter FLASH Size (Prog) (kB):2048 from Part U?
+Removed Parameter Height:0.66mm from Part IC?
+Removed Parameter Height:1.1mm from Part U?
+Removed Parameter Height:1.2mm from Part IC?
+Removed Parameter Height:1.2mm from Part U?
+Removed Parameter Height:1.45mm from Part U?
+Removed Parameter Height:1.45mm from Part U?
+Removed Parameter Height:1.45mm from Part U?
+Removed Parameter Height:1.75mm from Part IC?
+Removed Parameter Height:1.75mm from Part U?
+Removed Parameter Height:1mm from Part U?
+Removed Parameter Height:1mm from Part IC?
+Removed Parameter Height:1mm from Part U?
+Removed Parameter Height:1mm from Part IC?
+Removed Parameter Height:2.65mm from Part IC?
+Removed Parameter Height:2mm from Part J?
+Removed Parameter Height:4.2mm from Part U?
+Removed Parameter Height:4mm from Part IC?
+Removed Parameter Height:5.6mm from Part J?
+Removed Parameter Height:5.9mm from Part BT?
+Removed Parameter Height:10.1mm from Part DS?
+Removed Parameter Height:12.3mm from Part K?
+Removed Parameter Height:13.75mm from Part J?
+Removed Parameter Height:16mm from Part J?
+Removed Parameter I/Os (High Current):82 from Part U?
+Removed Parameter I/Os (High Current):140 from Part U?
+Removed Parameter I/Os (High Current):140 from Part U?
+Removed Parameter I/Os (High Current):168 from Part U?
+Removed Parameter Initial Voltage: from Implementation SIM DIODE
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Internal RAM Size (kB):256 from Part U?
+Removed Parameter Internal RAM Size (kB):256 from Part U?
+Removed Parameter Internal RAM Size (kB):256 from Part U?
+Removed Parameter Internal RAM Size (kB):256 from Part U?
+Removed Parameter Kind:General from Implementation SIM DIODE
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Manuf_1:Avago Technologies from Part LD?
+Removed Parameter Manuf_1:AVX from Part C?
+Removed Parameter Manuf_1:AVX from Part C?
+Removed Parameter Manuf_1:AVX from Part C?
+Removed Parameter Manuf_1:AVX from Part C?
+Removed Parameter Manuf_1:AVX from Part C?
+Removed Parameter Manuf_1:Cirrus Logic from Part U?
+Removed Parameter Manuf_1:DIODES from Part U?
+Removed Parameter Manuf_1:everlight from Part LD?
+Removed Parameter Manuf_1:everlight from Part LD?
+Removed Parameter Manuf_1: from Part CN?
+Removed Parameter Manuf_1:HanRun from Part CN?
+Removed Parameter Manuf_1:Jiubaba from Part CN?
+Removed Parameter Manuf_1:KUNJIAN from Part U?
+Removed Parameter Manuf_1:MICROCHIP from Part U?
+Removed Parameter Manuf_1:MICROCHIP from Part U?
+Removed Parameter Manuf_1:MICRON from Part U?
+Removed Parameter Manuf_1:MOLEX from Part CN?
+Removed Parameter Manuf_1:MURATA from Part L?
+Removed Parameter Manuf_1:MURATA from Part L?
+Removed Parameter Manuf_1:NDK from Part X?
+Removed Parameter Manuf_1:NDK from Part X?
+Removed Parameter Manuf_1:NDK from Part X?
+Removed Parameter Manuf_1:NDK from Part X?
+Removed Parameter Manuf_1:ON SEMICONDUCTOR from Part U?
+Removed Parameter Manuf_1:qiaod from Part CN?
+Removed Parameter Manuf_1:qiaod from Part CN?
+Removed Parameter Manuf_1:SAMTEC from Part JP?
+Removed Parameter Manuf_1:SAMTEC from Part JP?
+Removed Parameter Manuf_1:Stackpole Electronics Inc from Part R?
+Removed Parameter Manuf_1:STM from Part D?
+Removed Parameter Manuf_1:STM from Part U?
+Removed Parameter Manuf_1:STM from Part D?
+Removed Parameter Manuf_1:STM from Part U?
+Removed Parameter Manuf_1:STM from Part U?
+Removed Parameter Manuf_1:STM from Part U?
+Removed Parameter Manuf_1:STM from Part U?
+Removed Parameter Manuf_1:STM from Part U?
+Removed Parameter Manuf_1:STM from Part U?
+Removed Parameter Manuf_1:STM from Part U?
+Removed Parameter Manuf_1:STM from Part U?
+Removed Parameter Manuf_1:STM from Part U?
+Removed Parameter Manuf_1:STM from Part U?
+Removed Parameter Manuf_1:STM from Part D?
+Removed Parameter Manuf_1:STMICROELECTRONICS from Part U?
+Removed Parameter Manuf_1:Tai-tech from Part L?
+Removed Parameter Manuf_1:TOWNES from Part CN?
+Removed Parameter Manuf_1:TOWNES from Part CN?
+Removed Parameter Manuf_1:TOWNES from Part CN?
+Removed Parameter Manuf_1:TOWNES from Part CN?
+Removed Parameter Manuf_1:TOWNES from Part P?
+Removed Parameter Manuf_1:VISHAY DRALORIC from Part R?
+Removed Parameter Manuf_1:VISHAY from Part C?
+Removed Parameter Manuf_1:VISHAY from Part R?
+Removed Parameter Manuf_1:wealthmetal from Part B?
+Removed Parameter Manuf_1:wealthmetal from Part B?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part C?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAGEO from Part R?
+Removed Parameter Manuf_1:YAMAICHI from Part CN?
+Removed Parameter Manuf_2:everluck from Part LD?
+Removed Parameter Manuf_2:FARNELL from Part B?
+Removed Parameter Manuf_2:FARNELL from Part B?
+Removed Parameter Manuf_2: from Part JP?
+Removed Parameter Manuf_2: from Part X?
+Removed Parameter Manuf_2: from Part X?
+Removed Parameter Manuf_2:KEMET from Part C?
+Removed Parameter Manuf_2:KEMET from Part C?
+Removed Parameter Manuf_2:lyconn from Part CN?
+Removed Parameter Manuf_2:Pulse Electronics Corporation from Part CN?
+Removed Parameter Manuf_2:SAMTEC from Part CN?
+Removed Parameter Manuf_2:SAMTEC from Part CN?
+Removed Parameter Manuf_2:SAMTEC from Part CN?
+Removed Parameter Manuf_2:SAMTEC from Part CN?
+Removed Parameter Manuf_2:TDK from Part L?
+Removed Parameter Manuf_2:TDK from Part L?
+Removed Parameter Manuf_2:TOWNES from Part P?
+Removed Parameter Manuf_3: from Part JP?
+Removed Parameter Manuf_3:K.O.D International Holding from Part CN?
+Removed Parameter Manuf_3:MURATA from Part L?
+Removed Parameter Manuf_3:Tai-tech from Part L?
+Removed Parameter Manuf_3:TOWNES from Part CN?
+Removed Parameter Manuf_Part_1:19-213SYGC/S530-E2/TR8 from Part LD?
+Removed Parameter Manuf_Part_1:19-217/R6C-AL1M2VY/3T from Part LD?
+Removed Parameter Manuf_Part_1:74LVC1G04SE-7 from Part U?
+Removed Parameter Manuf_Part_1:293D106X9010A2TE3 from Part C?
+Removed Parameter Manuf_Part_1:0402YC471KAT4A from Part C?
+Removed Parameter Manuf_Part_1:1206YD475KAT2A from Part C?
+Removed Parameter Manuf_Part_1:5075BMR-05-SM from Part CN?
+Removed Parameter Manuf_Part_1:12065C475KAT2A from Part C?
+Removed Parameter Manuf_Part_1:47590-0001 from Part CN?
+Removed Parameter Manuf_Part_1:BAT60JFILM from Part D?
+Removed Parameter Manuf_Part_1:BLM18PG121SN1D from Part L?
+Removed Parameter Manuf_Part_1:CC0402CRNPO9BN4R7 from Part C?
+Removed Parameter Manuf_Part_1:CC0402JRNPO9BN100 from Part C?
+Removed Parameter Manuf_Part_1:CC0402KRX7R7BB104 from Part C?
+Removed Parameter Manuf_Part_1:CC0402KRX7R7BB223 from Part C?
+Removed Parameter Manuf_Part_1:CC0603KRX5R5BB106 from Part C?
+Removed Parameter Manuf_Part_1:CC0603KRX5R6BB225 from Part C?
+Removed Parameter Manuf_Part_1:CC0603KRX5R7BB105 from Part C?
+Removed Parameter Manuf_Part_1:CC0603KRX5R7BB475 from Part C?
+Removed Parameter Manuf_Part_1:CC0603KRX7R9BB103 from Part C?
+Removed Parameter Manuf_Part_1:CC0603KRX7R9BB104 from Part C?
+Removed Parameter Manuf_Part_1:CC0805KKX7R7BB225 from Part C?
+Removed Parameter Manuf_Part_1:CC0805KRX5R8BB106 from Part C?
+Removed Parameter Manuf_Part_1:CC1206KKX7R7BB225 from Part C?
+Removed Parameter Manuf_Part_1:CRCW0603620RFKEA from Part R?
+Removed Parameter Manuf_Part_1:EMIF02-USB03F2 from Part U?
+Removed Parameter Manuf_Part_1:ESD7383NCTBG from Part U?
+Removed Parameter Manuf_Part_1:ESDA14V2-2BF3 from Part D?
+Removed Parameter Manuf_Part_1:F201-1*06MGF-W1-LBE from Part CN?
+Removed Parameter Manuf_Part_1:F201-1*08MGF-W1-LBE from Part CN?
+Removed Parameter Manuf_Part_1:F201-1*10MGF-W1-LBE from Part CN?
+Removed Parameter Manuf_Part_1:F206A-2*04MGF-A from Part CN?
+Removed Parameter Manuf_Part_1:FCM1608KF-601T03 from Part L?
+Removed Parameter Manuf_Part_1:FPU330ZH-BT1D3-CA from Part P?
+Removed Parameter Manuf_Part_1:HR961160C from Part CN?
+Removed Parameter Manuf_Part_1:HSMF-A201-A00J1 from Part LD?
+Removed Parameter Manuf_Part_1:HT043C from Part U?
+Removed Parameter Manuf_Part_1:IMP34DT05TR from Part U?
+Removed Parameter Manuf_Part_1:JBB0819100002 from Part CN?
+Removed Parameter Manuf_Part_1:LAN8742A-CZ-TR from Part U?
+Removed Parameter Manuf_Part_1:LD1117S18TR from Part U?
+Removed Parameter Manuf_Part_1:LD1117S50TR from Part U?
+Removed Parameter Manuf_Part_1:LD3985M33R from Part U?
+Removed Parameter Manuf_Part_1:LD39050PU33R from Part U?
+Removed Parameter Manuf_Part_1:LQH32PN4R7NN0L from Part L?
+Removed Parameter Manuf_Part_1:MCT 0603-50 1% P5 12K1 from Part R?
+Removed Parameter Manuf_Part_1:MT25QL128ABA1EW9-0SIT from Part U?
+Removed Parameter Manuf_Part_1:NX3215SA 32.768KHz EXS00A-MU00525 from Part X?
+Removed Parameter Manuf_Part_1:NX3225GD 8MHz EXS00A-CG04874 from Part X?
+Removed Parameter Manuf_Part_1:NZ2520SH 24MHz END4869D from Part X?
+Removed Parameter Manuf_Part_1:NZ2520SH 25MHz END4869C from Part X?
+Removed Parameter Manuf_Part_1:PJ3028B-3_BE from Part CN?
+Removed Parameter Manuf_Part_1:PJ3028B-3_GR from Part CN?
+Removed Parameter Manuf_Part_1:PJS008-2003-1 from Part CN?
+Removed Parameter Manuf_Part_1:RC0402FR-071K5L from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-071KL from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-071ML from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-072K7L from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-073K3L from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-078K06L from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-0710KL from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-0720RL from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-0733RL from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-0736KL from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-0747KL from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-0749R9L from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-0775RL from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-07100RL from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-07330RL from Part R?
+Removed Parameter Manuf_Part_1:RC0402FR-07510L from Part R?
+Removed Parameter Manuf_Part_1:RC0402JR-070RL from Part R?
+Removed Parameter Manuf_Part_1:RC0603JR-070RL from Part R?
+Removed Parameter Manuf_Part_1:RC0805FR-07820RL from Part R?
+Removed Parameter Manuf_Part_1:RNCP0805FTD10R0 from Part R?
+Removed Parameter Manuf_Part_1:RT0402FRE074K7L from Part R?
+Removed Parameter Manuf_Part_1:RT0402FRE07100KL from Part R?
+Removed Parameter Manuf_Part_1:RT0603FRE07330RL from Part R?
+Removed Parameter Manuf_Part_1:ST890CDR from Part U?
+Removed Parameter Manuf_Part_1:STLD40DPUR from Part U?
+Removed Parameter Manuf_Part_1:STM32F103CBT6 from Part U?
+Removed Parameter Manuf_Part_1:STM32F746NGH6U from Part U?
+Removed Parameter Manuf_Part_1:STMPS2141STR from Part U?
+Removed Parameter Manuf_Part_1:STMPS2151STR from Part U?
+Removed Parameter Manuf_Part_1:STPS1L40M from Part D?
+Removed Parameter Manuf_Part_1:TAJA105K016R from Part C?
+Removed Parameter Manuf_Part_1:TAJA475K016R from Part C?
+Removed Parameter Manuf_Part_1:TD0341X-G01-BLA from Part B?
+Removed Parameter Manuf_Part_1:TD0341X-G01-BLU from Part B?
+Removed Parameter Manuf_Part_1:TSM-102-01-F-SH-A from Part JP?
+Removed Parameter Manuf_Part_1:TSM-104-01-x-DV from Part JP?
+Removed Parameter Manuf_Part_1:USB3320C-EZK-TR from Part U?
+Removed Parameter Manuf_Part_1:WM8994ECS/R from Part U?
+Removed Parameter Manuf_Part_2:535-930 from Part B?
+Removed Parameter Manuf_Part_2:535-930 from Part B?
+Removed Parameter Manuf_Part_2:218205M1110T from Part CN?
+Removed Parameter Manuf_Part_2:C0603C225K8PACTU from Part C?
+Removed Parameter Manuf_Part_2:C1206C225K4RAC from Part C?
+Removed Parameter Manuf_Part_2: from Part JP?
+Removed Parameter Manuf_Part_2: from Part X?
+Removed Parameter Manuf_Part_2: from Part X?
+Removed Parameter Manuf_Part_2:J3011G21DNLT from Part CN?
+Removed Parameter Manuf_Part_2:LE-RGW35280 from Part LD?
+Removed Parameter Manuf_Part_2:MPZ1608S300A from Part L?
+Removed Parameter Manuf_Part_2:MPZ1608S300A from Part L?
+Removed Parameter Manuf_Part_2:NX3225GD-8.000M-STD-CRA-3 from Part X?
+Removed Parameter Manuf_Part_2:PJ30280-3_BE from Part CN?
+Removed Parameter Manuf_Part_2:PJ30280-3_GR from Part CN?
+Removed Parameter Manuf_Part_2:SSM-104-L-DH from Part CN?
+Removed Parameter Manuf_Part_2:SSW-106-22-L-S-VS from Part CN?
+Removed Parameter Manuf_Part_2:SSW-108-22-L-S-VS from Part CN?
+Removed Parameter Manuf_Part_2:SSW-110-22-L-S-VS from Part CN?
+Removed Parameter Manuf_Part_2:TFP-A330ZH-BT1-ECX from Part P?
+Removed Parameter Manuf_Part_3:BLM18PG121SN1D from Part L?
+Removed Parameter Manuf_Part_3:FCM1608KF-601T03 from Part L?
+Removed Parameter Manuf_Part_3: from Part JP?
+Removed Parameter Manuf_Part_3:MUSB5QS-BM1H6-NLB-E from Part CN?
+Removed Parameter Manuf_Part_3:RMT-119A-12F6-GY-04 from Part CN?
+Removed Parameter Manufacturer:Multicomp from Part *
+Removed Parameter Manufacturer:STMicroelectronics from Part U?
+Removed Parameter Manufacturer:STMicroelectronics from Part U?
+Removed Parameter Manufacturer:STMicroelectronics from Part U?
+Removed Parameter Manufacturer:STMicroelectronics from Part U?
+Removed Parameter Manufacturer_Name:Allegro Microsystems from Part IC?
+Removed Parameter Manufacturer_Name:Analog Devices from Part IC?
+Removed Parameter Manufacturer_Name:Analog Devices from Part IC?
+Removed Parameter Manufacturer_Name:Audio-Technica from Part J?
+Removed Parameter Manufacturer_Name:Bourns from Part VR?
+Removed Parameter Manufacturer_Name:Fordata from Part DS?
+Removed Parameter Manufacturer_Name:HANRUN(Zhongshan HanRun Elec) from Part J?
+Removed Parameter Manufacturer_Name:Hongfa from Part J?
+Removed Parameter Manufacturer_Name:HUIKE from Part K?
+Removed Parameter Manufacturer_Name:Linx Technologies from Part U?
+Removed Parameter Manufacturer_Name:Molex from Part J?
+Removed Parameter Manufacturer_Name:Molex from Part J?
+Removed Parameter Manufacturer_Name:Olimex Ltd. from Part U?
+Removed Parameter Manufacturer_Name:Sharp Microelectronics from Part IC?
+Removed Parameter Manufacturer_Name:Silicon Labs from Part U?
+Removed Parameter Manufacturer_Name:SIMCOM from Part U?
+Removed Parameter Manufacturer_Name:STMicroelectronics from Part U?
+Removed Parameter Manufacturer_Name:STMicroelectronics from Part IC?
+Removed Parameter Manufacturer_Name:STMicroelectronics from Part U?
+Removed Parameter Manufacturer_Name:STMicroelectronics from Part U?
+Removed Parameter Manufacturer_Name:STMicroelectronics from Part U?
+Removed Parameter Manufacturer_Name:Sumida from Part L?
+Removed Parameter Manufacturer_Name:Sumida from Part L?
+Removed Parameter Manufacturer_Name:Texas Instruments from Part IC?
+Removed Parameter Manufacturer_Name:Texas Instruments from Part U?
+Removed Parameter Manufacturer_Name:Texas Instruments from Part U?
+Removed Parameter Manufacturer_Name:Texas Instruments from Part IC?
+Removed Parameter Manufacturer_Name:Wurth Elektronik from Part BT?
+Removed Parameter Manufacturer_Part_Number:3362P-1-102LF from Part VR?
+Removed Parameter Manufacturer_Part_Number:52745-0497 from Part J?
+Removed Parameter Manufacturer_Part_Number:79527141 from Part BT?
+Removed Parameter Manufacturer_Part_Number:0786463001 from Part J?
+Removed Parameter Manufacturer_Part_Number:-SIM800C from Part U?
+Removed Parameter Manufacturer_Part_Number:ACS712ELCTR-05B-T from Part IC?
+Removed Parameter Manufacturer_Part_Number:AD724 from Part IC?
+Removed Parameter Manufacturer_Part_Number:ADV7533BCBZ-RL from Part IC?
+Removed Parameter Manufacturer_Part_Number:BAT-HLD-001-TR from Part U?
+Removed Parameter Manufacturer_Part_Number:CD43T125NP-4R7MC from Part L?
+Removed Parameter Manufacturer_Part_Number:CD75NP-100KC from Part L?
+Removed Parameter Manufacturer_Part_Number:ESDA6V1-5SC6 from Part U?
+Removed Parameter Manufacturer_Part_Number:FC1602N01-FHYYBW-51LE from Part DS?
+Removed Parameter Manufacturer_Part_Number:HF115F/012-2ZS4BF(610) from Part J?
+Removed Parameter Manufacturer_Part_Number:HK19F-DC5V-SHG(Y) from Part K?
+Removed Parameter Manufacturer_Part_Number:HR911105A from Part J?
+Removed Parameter Manufacturer_Part_Number:MOD-BME280 from Part U?
+Removed Parameter Manufacturer_Part_Number:PC817X1NIP0F from Part IC?
+Removed Parameter Manufacturer_Part_Number:PJ-320D from Part J?
+Removed Parameter Manufacturer_Part_Number:Si8621BB-B-IS from Part U?
+Removed Parameter Manufacturer_Part_Number:SN74LVC245ARGYR from Part IC?
+Removed Parameter Manufacturer_Part_Number:STM32F030F4P6 from Part IC?
+Removed Parameter Manufacturer_Part_Number:STMPS2151STR from Part U?
+Removed Parameter Manufacturer_Part_Number:STPM32TR from Part U?
+Removed Parameter Manufacturer_Part_Number:TPD4E1B06DCKR from Part U?
+Removed Parameter Manufacturer_Part_Number:TPD12S521DBTR from Part U?
+Removed Parameter Manufacturer_Part_Number:TPS54202DDCT from Part IC?
+Removed Parameter Manufacturer_Part_Number:USBLC6-2SC6 from Part U?
+Removed Parameter Manufacturer Part Number:MCCN-41JL6---56R from Part *
+Removed Parameter MAPPING:1(1,2,10uF) from Implementation SI C200M
+Removed Parameter MAPPING:1(1,2,10uF) from Implementation SI C200M
+Removed Parameter MAPPING:1(1,2,10uF) from Implementation SI C200M
+Removed Parameter MF:Suntech from Part P?
+Removed Parameter Mounting Technology:Surface Mount from Part U?
+Removed Parameter Mounting Technology:Surface Mount from Part U?
+Removed Parameter Mounting Technology:Surface Mount from Part U?
+Removed Parameter Mounting Technology:Surface Mount from Part U?
+Removed Parameter Mouser Part Number:511-ESDA6V1-5SC6 from Part U?
+Removed Parameter Mouser Part Number:511-STM32F030F4P6 from Part IC?
+Removed Parameter Mouser Part Number:511-STMPS2151STR from Part U?
+Removed Parameter Mouser Part Number:511-USBLC6-2SC6 from Part U?
+Removed Parameter Mouser Part Number:512-STPM32TR from Part U?
+Removed Parameter Mouser Part Number:538-52745-0497 from Part J?
+Removed Parameter Mouser Part Number:584-ADV7533BCBZ-R from Part IC?
+Removed Parameter Mouser Part Number:595-SN74LVC245ARGYR from Part IC?
+Removed Parameter Mouser Part Number:595-TPD4E1B06DCKR from Part U?
+Removed Parameter Mouser Part Number:595-TPD12S521DBTR from Part U?
+Removed Parameter Mouser Part Number:595-TPS54202DDCT from Part IC?
+Removed Parameter Mouser Part Number:634-SI8621BB-B-IS from Part U?
+Removed Parameter Mouser Part Number:652-3362P-1-102LF from Part VR?
+Removed Parameter Mouser Part Number:710-79527141 from Part BT?
+Removed Parameter Mouser Part Number:712-BAT-HLD-001-TR from Part U?
+Removed Parameter Mouser Part Number:851-CD75NP-100KC from Part L?
+Removed Parameter Mouser Part Number:909-MOD-BME280 from Part U?
+Removed Parameter Mouser Part Number: from Part U?
+Removed Parameter Mouser Part Number: from Part IC?
+Removed Parameter Mouser Part Number: from Part DS?
+Removed Parameter Mouser Part Number: from Part J?
+Removed Parameter Mouser Part Number: from Part K?
+Removed Parameter Mouser Part Number: from Part J?
+Removed Parameter Mouser Part Number: from Part J?
+Removed Parameter Mouser Part Number:N/A from Part J?
+Removed Parameter Mouser Part Number:N/A from Part IC?
+Removed Parameter Mouser Part Number:N/A from Part L?
+Removed Parameter Mouser Part Number:N/A from Part IC?
+Removed Parameter Mouser Price/Stock: from Part U?
+Removed Parameter Mouser Price/Stock: from Part IC?
+Removed Parameter Mouser Price/Stock: from Part DS?
+Removed Parameter Mouser Price/Stock: from Part J?
+Removed Parameter Mouser Price/Stock: from Part K?
+Removed Parameter Mouser Price/Stock: from Part J?
+Removed Parameter Mouser Price/Stock: from Part J?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADV7533BCBZ-RL?qs=WIvQP4zGanj8TzAnCkDkMA%3D%3D from Part IC?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/Bourns/3362P-1-102LF?qs=RwDwYDcw27qKqzC%2FPPozyg%3D%3D from Part VR?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/Linx-Technologies/BAT-HLD-001-TR?qs=K5ta8V%252BWhtZh3MyWmkkmjQ%3D%3D from Part U?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/Molex/0786463001?qs=PBcRNPEHKsprcClEIwXddw%3D%3D from Part J?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/Olimex-Ltd/MOD-BME280?qs=%252B6g0mu59x7K82sEO3yPPgg%3D%3D from Part U?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/Silicon-Labs/SI8621BB-B-IS?qs=j6MGy4L9yX2f%2FX6w7SMa%252Bw%3D%3D from Part U?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ESDA6V1-5SC6?qs=ZN9SVtODT3yxqNpCUKP6Bg%3D%3D from Part U?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F030F4P6?qs=eyrSuY1LhL02tVhJ92aI6g%3D%3D from Part IC?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPM32TR?qs=4b8myOmUP%252BvhqmpAk5K29Q%3D%3D from Part U?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/STMicroelectronics/USBLC6-2SC6?qs=po45yt2pPpu%2FhNIlwQdTlg%3D%3D from Part U?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPD4E1B06DCKR?qs=FBI%252BX3tnPf1Bt8uBkGhcNg%3D%3D from Part U?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPD12S521DBTR?qs=XGzIaZb%2FFYI8fSEzXwwy6A%3D%3D from Part U?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS54202DDCT?qs=uP22XH7NdCscexarucQUDw%3D%3D from Part IC?
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/79527141?qs=wr8lucFkNMXHgRaBtMvyBw%3D%3D from Part BT?
+Removed Parameter Mouser Price/Stock:https://www.mouser.com/Search/Refine.aspx?Keyword=511-STMPS2151STR from Part U?
+Removed Parameter Mouser Price/Stock:https://www.mouser.com/Search/Refine.aspx?Keyword=538-52745-0497 from Part J?
+Removed Parameter Mouser Price/Stock:https://www.mouser.com/Search/Refine.aspx?Keyword=595-SN74LVC245ARGYR from Part IC?
+Removed Parameter Mouser Price/Stock:https://www.mouser.com/Search/Refine.aspx?Keyword=851-CD75NP-100KC from Part L?
+Removed Parameter Mouser Price/Stock:https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA from Part IC?
+Removed Parameter Mouser Price/Stock:https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA from Part L?
+Removed Parameter Mouser Price/Stock:https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA from Part IC?
+Removed Parameter MP:ST-TF-003A from Part P?
+Removed Parameter NDK Ref:X3101802 from Part X?
+Removed Parameter NDK Ref:X3127326 from Part X?
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @MODEL &"AREA FACTOR" &"STARTING CONDITION" ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| ?TEMPERATURE|TEMP=@TEMPERATURE| from Implementation SIM DIODE
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Number of Elements:4 from Part *
+Removed Parameter Operating Frequency(F) (Processor speed) (MHz):180 from Part U?
+Removed Parameter Operating Frequency(F) (Processor speed) (MHz):180 from Part U?
+Removed Parameter Operating Frequency(F) (Processor speed) (MHz):180 from Part U?
+Removed Parameter Operating Frequency(F) (Processor speed) (MHz):180 from Part U?
+Removed Parameter Order:19-213SYGC/S530-E2/TR8 from Part LD?
+Removed Parameter Order:19-217/R6C-AL1M2VY/3T from Part LD?
+Removed Parameter Order:311-75.0LRTR-ND from Part R?
+Removed Parameter Order:311-1367-2-ND from Part C?
+Removed Parameter Order:0402YC471KAT4A from Part C?
+Removed Parameter Order:490-5338-1-ND from Part L?
+Removed Parameter Order:1500622RL from Part R?
+Removed Parameter Order:1845218 from Part U?
+Removed Parameter Order:2122341 from Part R?
+Removed Parameter Order:2325243 from Part R?
+Removed Parameter Order:2363467 from Part R?
+Removed Parameter Order:2363481 from Part R?
+Removed Parameter Order:9239111 from Part R?
+Removed Parameter Order:9239430 from Part R?
+Removed Parameter Order:BAT60JFILM from Part D?
+Removed Parameter Order:CC0402JRNPO9BN100 from Part C?
+Removed Parameter Order:CC0402KRX7R7BB104 from Part C?
+Removed Parameter Order:CC0402KRX7R7BB223 from Part C?
+Removed Parameter Order:CC0603KRX5R5BB106 from Part C?
+Removed Parameter Order:CC0603KRX5R7BB105 from Part C?
+Removed Parameter Order:CC0603KRX5R7BB105 from Part C?
+Removed Parameter Order:CC0603KRX7R9BB103 from Part C?
+Removed Parameter Order:CC0603KRX7R9BB104 from Part C?
+Removed Parameter Order:CC0805KKX7R7BB225 from Part C?
+Removed Parameter Order:CC0805KRX5R8BB106 from Part C?
+Removed Parameter Order:CC1206KKX7R7BB225 from Part C?
+Removed Parameter Order:EMIF02-USB03F2 from Part U?
+Removed Parameter Order: from Part L?
+Removed Parameter Order: from Part L?
+Removed Parameter Order:* from Part C?
+Removed Parameter Order:* from Part C?
+Removed Parameter Order:* from Part C?
+Removed Parameter Order:* from Part C?
+Removed Parameter Order:* from Part P?
+Removed Parameter Order:* from Part CN?
+Removed Parameter Order: from Part LD?
+Removed Parameter Order:* from Part X?
+Removed Parameter Order:* from Part X?
+Removed Parameter Order: from Part CN?
+Removed Parameter Order:* from Part R?
+Removed Parameter Order:* from Part R?
+Removed Parameter Order:* from Part R?
+Removed Parameter Order:* from Part R?
+Removed Parameter Order:LAN8742A-CZ-TR from Part U?
+Removed Parameter Order:LD1117S18TR from Part U?
+Removed Parameter Order:LD1117S50TR from Part U?
+Removed Parameter Order:LD3985M33R from Part U?
+Removed Parameter Order:LD39050PU33R from Part U?
+Removed Parameter Order:NX3215SA 32.768KHz EXS00A-MU00525 from Part X?
+Removed Parameter Order:NX3225GD 8MHz EXS00A-CG04874 from Part X?
+Removed Parameter Order:PJS008-2003-1 from Part CN?
+Removed Parameter Order:RC0402FR-071K5L from Part R?
+Removed Parameter Order:RC0402FR-071KL from Part R?
+Removed Parameter Order:RC0402FR-071ML from Part R?
+Removed Parameter Order:RC0402FR-072K7L from Part R?
+Removed Parameter Order:RC0402FR-078K06L from Part R?
+Removed Parameter Order:RC0402FR-0710KL from Part R?
+Removed Parameter Order:RC0402FR-0736KL from Part R?
+Removed Parameter Order:RC0402FR-07330RL from Part R?
+Removed Parameter Order:RC0402FR-07510L from Part R?
+Removed Parameter Order:RC0805FR-07820RL from Part R?
+Removed Parameter Order:RNCP0805FTD10R0 from Part R?
+Removed Parameter Order:RT0402FRE074K7L from Part R?
+Removed Parameter Order:RT0402FRE07100KL from Part R?
+Removed Parameter Order:STLD40DPUR from Part U?
+Removed Parameter Order:STM32F103CBT6 from Part U?
+Removed Parameter Order:STM32F746NGH6U from Part U?
+Removed Parameter Order:STMPS2141STR from Part U?
+Removed Parameter Order:STMPS2151STR from Part U?
+Removed Parameter Order:STPS1L40M from Part D?
+Removed Parameter Order:TAJA105K016R from Part C?
+Removed Parameter Order:TAJA475K016R from Part C?
+Removed Parameter Order:USB3320C-EZK-TR from Part U?
+Removed Parameter Ordered by:ST from Part U?
+Removed Parameter Package:None from Part P?
+Removed Parameter PackageDescription:100-Pin Low Profile Quad Flat Package, 14 x 14 mm Body, 0.5 mm Pitch from Part U?
+Removed Parameter PackageDescription:176-Pin Low Profile Quad Flat Package, 24 x 24 mm Body, 0.5 mm Pitch from Part U?
+Removed Parameter PackageDescription:176-Pin Low Profile Quad Flat Package, 24 x 24 mm Body, 0.5 mm Pitch from Part U?
+Removed Parameter PackageDescription:208-Pin Low Profile Quad Flat Package, 28 x 28 mm Body, 0.5 mm Pitch from Part U?
+Removed Parameter PackageReference:LQFP100 from Part U?
+Removed Parameter PackageReference:LQFP176 from Part U?
+Removed Parameter PackageReference:LQFP176 from Part U?
+Removed Parameter PackageReference:LQFP208 from Part U?
+Removed Parameter PackageVersion:Rev. 1, 06/2013 from Part U?
+Removed Parameter PackageVersion:Rev. 2, 05/2013 from Part U?
+Removed Parameter PackageVersion:Rev. 4, 06/2013 from Part U?
+Removed Parameter PackageVersion:Rev. 4, 06/2013 from Part U?
+Removed Parameter Packaging:Cut Tape from Part *
+Removed Parameter Packing:Tray from Part U?
+Removed Parameter Packing:Tray from Part U?
+Removed Parameter Packing:Tray from Part U?
+Removed Parameter Packing:Tray from Part U?
+Removed Parameter PartNumber:STM32F429BIT6 from Part U?
+Removed Parameter PartNumber:STM32F429IIT6 from Part U?
+Removed Parameter PartNumber:STM32F429IIT6 from Part U?
+Removed Parameter PartNumber:STM32F429VGT6 from Part U?
+Removed Parameter Power Rating:31.25mW from Part *
+Removed Parameter Price:None from Part P?
+Removed Parameter Provided:ST from Part D?
+Removed Parameter Provided:ST from Part U?
+Removed Parameter Provided:ST from Part D?
+Removed Parameter Provided:ST from Part U?
+Removed Parameter Provided:ST from Part U?
+Removed Parameter Provided:ST from Part U?
+Removed Parameter Provided:ST from Part U?
+Removed Parameter Provided:ST from Part U?
+Removed Parameter Provided:ST from Part X?
+Removed Parameter Provided:ST from Part X?
+Removed Parameter Provided:ST from Part U?
+Removed Parameter Provided:ST from Part U?
+Removed Parameter Provided:ST from Part U?
+Removed Parameter Provided:ST from Part U?
+Removed Parameter Provided:ST from Part U?
+Removed Parameter Provided:ST from Part U?
+Removed Parameter Provided:ST from Part D?
+Removed Parameter Provided:ST from Part X?
+Removed Parameter Provided:ST from Part X?
+Removed Parameter provided:SUBCO from Part U?
+Removed Parameter provided:SUBCO with ST control from Part U?
+Removed Parameter Publisher:Altium Limited from Part CN?
+Removed Parameter REACH SVHC:Yes from Part *
+Removed Parameter Ref St:9151085 from Part D?
+Removed Parameter Ref St:9151097 from Part D?
+Removed Parameter Ref St:9157029 from Part X?
+Removed Parameter Ref St:9157034 from Part X?
+Removed Parameter Ref St:9159003 from Part U?
+Removed Parameter Ref St:9175176 from Part U?
+Removed Parameter Ref St:9176133 from Part U?
+Removed Parameter Ref St:9176161 from Part U?
+Removed Parameter Ref St:9176180 from Part U?
+Removed Parameter Ref St:9179037 from Part U?
+Removed Parameter Ref St:9179040 from Part D?
+Removed Parameter Ref St:9180120 from Part B?
+Removed Parameter Ref St:9180120 from Part B?
+Removed Parameter Ref St:* from Part U?
+Removed Parameter Ref St: from Part X?
+Removed Parameter Ref St: from Part X?
+Removed Parameter Ref St:xxxxxx from Part LD?
+Removed Parameter Ref St:xxxxxx from Part U?
+Removed Parameter Ref St:xxxxxxx from Part CN?
+Removed Parameter Ref St:xxxxxxxx from Part U?
+Removed Parameter Ref St:xxxxxxxx from Part U?
+Removed Parameter Ref St:xxxxxxxxx from Part U?
+Removed Parameter Resistance:56R from Part *
+Removed Parameter RS Part Number:1762817 from Part J?
+Removed Parameter RS Part Number:6247693P from Part U?
+Removed Parameter RS Part Number:6807131P from Part IC?
+Removed Parameter RS Part Number:7925925P from Part IC?
+Removed Parameter RS Part Number:7976553P from Part J?
+Removed Parameter RS Part Number:8264647P from Part IC?
+Removed Parameter RS Part Number:8805415P from Part U?
+Removed Parameter RS Part Number: from Part L?
+Removed Parameter RS Part Number: from Part L?
+Removed Parameter RS Part Number: from Part K?
+Removed Parameter RS Part Number: from Part J?
+Removed Parameter RS Price/Stock: from Part L?
+Removed Parameter RS Price/Stock: from Part L?
+Removed Parameter RS Price/Stock: from Part K?
+Removed Parameter RS Price/Stock: from Part J?
+Removed Parameter RS Price/Stock:http://uk.rs-online.com/web/p/products/1762817 from Part J?
+Removed Parameter RS Price/Stock:http://uk.rs-online.com/web/p/products/6247693P from Part U?
+Removed Parameter RS Price/Stock:http://uk.rs-online.com/web/p/products/6807131P from Part IC?
+Removed Parameter RS Price/Stock:http://uk.rs-online.com/web/p/products/7925925P from Part IC?
+Removed Parameter RS Price/Stock:http://uk.rs-online.com/web/p/products/7976553P from Part J?
+Removed Parameter RS Price/Stock:http://uk.rs-online.com/web/p/products/8264647P from Part IC?
+Removed Parameter RS Price/Stock:http://uk.rs-online.com/web/p/products/8805415P from Part U?
+Removed Parameter SnapEDA_Link:https://www.snapeda.com/parts/ST-TF-003A/Suntech/view-part/214778/?ref=snap from Part P?
+Removed Parameter Solder:NO from Part SB?
+Removed Parameter Solder:YES from Part SB?
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:D from Implementation SIM DIODE
+Removed Parameter Starting Condition: from Implementation SIM DIODE
+Removed Parameter Stock 1:0 from Part *
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Diode from Implementation SIM DIODE
+Removed Parameter Supplier 1:Digi-Key from Part U?
+Removed Parameter Supplier 1:Digi-Key from Part U?
+Removed Parameter Supplier 1:Digi-Key from Part U?
+Removed Parameter Supplier 1:Mouser from Part U?
+Removed Parameter Supplier 1:Newark from Part *
+Removed Parameter Supplier 2:Newark from Part U?
+Removed Parameter Supplier 2:Newark from Part U?
+Removed Parameter Supplier 2:Newark from Part U?
+Removed Parameter Supplier 3:Mouser from Part U?
+Removed Parameter Supplier 3:Mouser from Part U?
+Removed Parameter Supplier Part Number 1:71T7070 from Part *
+Removed Parameter Supplier Part Number 1:497-14054-ND from Part U?
+Removed Parameter Supplier Part Number 1:497-14054-ND from Part U?
+Removed Parameter Supplier Part Number 1:N/A from Part U?
+Removed Parameter Supplier Part Number 1:STM32F429VGT6-ND from Part U?
+Removed Parameter Supplier Part Number 2:06X3672 from Part U?
+Removed Parameter Supplier Part Number 2:06X3672 from Part U?
+Removed Parameter Supplier Part Number 2:06X3673 from Part U?
+Removed Parameter Supplier Part Number 3:511-STM32F429IIT6 from Part U?
+Removed Parameter Supplier Part Number 3:511-STM32F429IIT6 from Part U?
+Removed Parameter Supply Voltage(Vcc) max (V):3.6 from Part U?
+Removed Parameter Supply Voltage(Vcc) max (V):3.6 from Part U?
+Removed Parameter Supply Voltage(Vcc) max (V):3.6 from Part U?
+Removed Parameter Supply Voltage(Vcc) max (V):3.6 from Part U?
+Removed Parameter Supply Voltage(Vcc) min (V):1.8 from Part U?
+Removed Parameter Supply Voltage(Vcc) min (V):1.8 from Part U?
+Removed Parameter Supply Voltage(Vcc) min (V):1.8 from Part U?
+Removed Parameter Supply Voltage(Vcc) min (V):1.8 from Part U?
+Removed Parameter Tech: from Implementation SI Diode
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI RCA
+Removed Parameter Temperature: from Implementation SIM DIODE
+Removed Parameter Temperature Coefficient:200ppm/°C from Part *
+Removed Parameter Tolerance:5% from Part *
+Removed Parameter Type:Capacitor from Implementation SI C200M
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI C200M
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI C200M
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI RCA
+Removed Parameter Type:Diode from Implementation SI Diode
+Removed Parameter Value:0 from Part R?
+Removed Parameter Value:0 from Part R?
+Removed Parameter Value:1K5 from Part R?
+Removed Parameter Value:1K from Part R?
+Removed Parameter Value:1M from Part R?
+Removed Parameter Value:1uF from Part C?
+Removed Parameter Value:1uF from Part C?
+Removed Parameter Value:2.2uF from Part C?
+Removed Parameter Value:2.2uF from Part C?
+Removed Parameter Value:2.2uF from Part C?
+Removed Parameter Value:2K7 from Part R?
+Removed Parameter Value:3K3 from Part R?
+Removed Parameter Value:4.7pF from Part C?
+Removed Parameter Value:4.7uF from Part C?
+Removed Parameter Value:4.7uF from Part C?
+Removed Parameter Value:4.7uF from Part C?
+Removed Parameter Value:4.7uF from Part C?
+Removed Parameter Value:4K7 from Part R?
+Removed Parameter Value:8K06 from Part R?
+Removed Parameter Value:10 from Part R?
+Removed Parameter Value:10K from Part R?
+Removed Parameter Value:10nF from Part C?
+Removed Parameter Value:10pF from Part C?
+Removed Parameter Value:10uF from Part C?
+Removed Parameter Value:10uF from Part C?
+Removed Parameter Value:10uF from Part C?
+Removed Parameter Value:12K1 from Part R?
+Removed Parameter Value:20 from Part R?
+Removed Parameter Value:22nF from Part C?
+Removed Parameter Value:33 from Part R?
+Removed Parameter Value:36K from Part R?
+Removed Parameter Value:47K from Part R?
+Removed Parameter Value:49.9 from Part R?
+Removed Parameter Value:75 from Part R?
+Removed Parameter Value:100 from Part R?
+Removed Parameter Value:100K from Part R?
+Removed Parameter Value:100nF from Part C?
+Removed Parameter Value:100nF from Part C?
+Removed Parameter Value:100uH from Part L?
+Removed Parameter Value:100uH from Part L?
+Removed Parameter Value:330 from Part R?
+Removed Parameter Value:330 from Part R?
+Removed Parameter Value:470pF from Part C?
+Removed Parameter Value:510 from Part R?
+Removed Parameter Value:620 from Part R?
+Removed Parameter Value:820 from Part R?
+Removed Parameter Value:[NA] from Part C?
+Removed Parameter Value:[NA] from Part R?
+Removed Parameter value:ESD7383NCTBG from Part U?
+Removed Parameter Value:* from Part P?
+Removed Parameter value:IMP34DT05TR from Part U?
+Removed Parameter Value:MT25QL128ABA1EW9-0SIT from Part U?
+Removed Parameter Voltage Rating (DC):12.5V from Part *
+Removed Parameter Voltage Rating:12.5V from Part *
